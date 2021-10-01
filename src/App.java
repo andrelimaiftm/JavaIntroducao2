@@ -213,7 +213,7 @@ public class App {
                    //!( false || false) 
                    //!(false)
                    // true
-        comparacao = !(2 == 3 || 2 >= 3);
-        System.out.println(comparacao); 
+        //comparacao = !(2 == 3 || 2 >= 3);
+        //System.out.println(comparacao);     
     }
 }
